@@ -1,0 +1,10 @@
+.parent {
+  display: flex;
+  margin: auto;
+  padding: 0em 29em;
+}
+
+h2 {
+  border: 1px solid black;
+  padding: 0px;
+}
